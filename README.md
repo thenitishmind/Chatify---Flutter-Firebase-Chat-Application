@@ -241,7 +241,7 @@ Firestore Listener → Data Parsing → UI State Update → Message Display → 
 1. **Clone the repository**
 ```bash
 git clone <repository-url>
-cd chatify_flutter_firebase_chat_application
+cd Chatify - Flutter Firebase Chat Application
 ```
 
 2. **Install dependencies**
